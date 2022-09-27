@@ -5,6 +5,7 @@
 # File Name: Cw.py
 # Date Last Modified:
 #			08/25/2022 simpliy the CW.py to write/read serial no
+			09/27/2022 check for write and read permisson on git hub
 # Date Created: 08/26/2022 apei
 #
 # ff042Ecf # bytearray(b'\xff\x04.\xcf')
